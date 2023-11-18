@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons'); 
+
+.content-container {
+  margin-top: 200px;
+  
+}
+
+.product-card {
+  display: flex;
+  align-items: flex-start;
+  padding: 10px;
+  margin-bottom: 5px;
+  margin-top: 0px;
+  background-color: #F5F5F5;
+}
+
+.product-card img {
+  max-width: 100px;
+  margin-right: 10px;
+ 
+}
+.product-info {
+  display: flex;
+  align-items: center;
+}
+.name-font {
+  font-size: 34px;
+  text-transform: uppercase;
+}
+.product-info p {
+  margin-left: 400px;
+  white-space: nowrap;
+}
+
+
+.material-icons-shop {
+  margin-left: 400px;
+  white-space: nowrap;
+}
+
+
+.color-price {
+  color:red
+}
+
